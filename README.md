@@ -1,10 +1,12 @@
-## Should I use Git?
+### Should I use Git?
 
 # YES
 
-### Yeah, but actually?
+### Yeah, but why?
 
 1. It keeps your code organised
 2. It stops you from losing code
 
-This was made by [Zachary <3](https://hcaz.me.uk/).
+### What if I dont?
+
+You will probably lose work.
