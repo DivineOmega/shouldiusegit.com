@@ -1,4 +1,4 @@
-![](https://place-hold.it/512/FFF/000?text=YES&fontsize=232)
+![](https://place-hold.it/512/F2F2F2/000?text=YES&fontsize=232)
 
 ### But what actually is it?
 
